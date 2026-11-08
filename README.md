@@ -1,2 +1,2 @@
 # JavaApp
-Mini Java Application with Java Fx and MySQL
+Mini Java Application with Java swing and MySQL
